@@ -1,0 +1,84 @@
+{
+    "appKeys": {
+        "K_DAY": 3,
+        "K_EXERCISE": 1,
+        "K_MONTH": 2,
+        "K_PLAYER": 0,
+        "K_R0": 4,
+        "K_R1": 5,
+        "K_R2": 6,
+        "K_R3": 7,
+        "K_R4": 8,
+        "K_R5": 9,
+        "K_W0": 10,
+        "K_W1": 11,
+        "K_W2": 12,
+        "K_W3": 13,
+        "K_W4": 14,
+        "K_W5": 15
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nickgnaime@gmail.com",
+    "longName": "GymTracker",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/checkmark.png",
+                "name": "checkmark",
+                "type": "png"
+            },
+            {
+                "file": "images/bg_table.png",
+                "name": "bg_table",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow_down_black.png",
+                "name": "arrow_down",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow_left_black.png",
+                "name": "arrow_left",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow_right_black.png",
+                "name": "arrow_right",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow_up_black.png",
+                "name": "arrow_up",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow_small_up_black.png",
+                "name": "arrow_small_up_black",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow_small_down_black.png",
+                "name": "arrow_small_down_black",
+                "type": "png"
+            },
+            {
+                "file": "images/weight.png",
+                "menuIcon": true,
+                "name": "icon",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "GymTracker U",
+    "uuid": "3067b474-74de-4f25-9b2f-0704e07c78e6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
